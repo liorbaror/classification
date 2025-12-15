@@ -1,0 +1,4 @@
+fastai
+jupyter
+matplotlib
+pandas
